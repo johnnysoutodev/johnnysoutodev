@@ -1,4 +1,8 @@
-# Hi there 👋
+# Johnny Souto
+
+Sou desenvolvedor e tenho conhecimento em HTML5, CSS3, Javascript, Java e Oracle Databases no desenvolvimento de sistemas web, além de utilizar metodologias ágeis como XP, SCRUM e Kanban.
+
+<br>
 
 <!--
 **johnnysoutodev/johnnysoutodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +25,7 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnysoutodev&layout=compact&langs_count=4&theme=dark&locale=pt-BR"/>
 </div>
   
-# Tecnologias que tenho conhecimento
+## Tecnologias que tenho conhecimento
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Johnny-Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
