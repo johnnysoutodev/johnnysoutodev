@@ -36,4 +36,8 @@ Here are some ideas to get you started:
   
 # Entre em contato por
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johnnysouto)](https://www.linkedin.com/in/johnnysouto)
+<div>
+  <a href="https://www.linkedin.com/in/johnnysouto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+  <a href = "mailto:johnnyjnsgmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
