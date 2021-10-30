@@ -36,8 +36,7 @@ Here are some ideas to get you started:
   
 # Entre em contato por
 
-<div style="display: inline_block">
-  <a href="https://www.linkedin.com/in/johnnysouto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-
-  <a href = "mailto:johnnyjnsgmail.com?subject=Te%20encontrei%20no%20GitHub"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<div style="display: inline_block"><br>
+  <a href="https://www.linkedin.com/in/johnnysouto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href = "mailto:johnnyjnsgmail.com?subject=Te%20encontrei%20no%20GitHub"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
