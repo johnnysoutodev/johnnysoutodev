@@ -29,19 +29,19 @@ Here are some ideas to get you started:
 
 <div style="display: inline_block"><br>  
   <img align="center" alt="Johnny-HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  
+  &nbsp;
   <img align="center" alt="Johnny-CSS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
+  &nbsp;
   <img align="center" alt="Johnny-JS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  
+  &nbsp;
   <img align="center" alt="Johnny-React" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  
+  &nbsp;
   <img align="center" alt="Johnny-Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  
+  &nbsp;
   <img align="center" alt="Johnny-Spring" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  
+  &nbsp;
   <img align="center" alt="Johnny-Spring" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  
+  &nbsp;
   <img align="center" alt="Johnny-Spring" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
 </div>
   
