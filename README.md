@@ -1,6 +1,6 @@
 # Johnny Souto
 
-Sou desenvolvedor e tenho conhecimento em HTML5, CSS3, Javascript, Java e Oracle Database no desenvolvimento de sistemas web, além de utilizar metodologias ágeis como SCRUM e Kanban.
+Sou engenheiro de software, utilizo HTML5, CSS3, Javascript, React, Java, Spring, MySQL, AWS e metodologia ágil no desenvolvimento de sistemas web/mobile.
 
 <br>
 
