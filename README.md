@@ -1,6 +1,6 @@
 # Johnny Souto
 
-Sou desenvolvedor de software, utilizo HTML5, CSS3, Javascript, Typescript, React, Java, Spring, MySQL, MongoDB, AWS e metodologia ágil no desenvolvimento de sistemas web.
+Sou desenvolvedor de software, utilizo tecnologias como HTML5, CSS3, Javascript, Java, SQL, NoSQL, Cloud e metodologia ágil no desenvolvimento de software.
 
 <br>
 
