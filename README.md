@@ -1,6 +1,6 @@
 # Johnny Souto
 
-Sou desenvolvedor de software, utilizo tecnologias como HTML5, CSS3, Javascript, Java, SQL, NoSQL, Cloud e metodologia ágil no desenvolvimento de software.
+Sou desenvolvedor de sistemas web, tenho conhecimento técnico com HTML, CSS, JavaScript, Node.js e Java além de banco de dados SQL Server, Oracle e MongoDB, no momento sou consultor de sistemas utilizando Salesforce Platform.
 
 <br>
 
