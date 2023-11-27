@@ -1,6 +1,6 @@
 # Johnny Souto
 
-Sou desenvolvedor de sistemas web, tenho conhecimento técnico com HTML, CSS, JavaScript, Node.js e Java além de banco de dados SQL Server, Oracle e MongoDB, no momento sou consultor de sistemas utilizando Salesforce Platform.
+Profissional com mais de 15 anos de experiência na área de tecnologia da informação. Atuando em conjunto com a área de negócios, definindo regras, interagindo com os mais diversos departamentos, incluindo designers, reproduzindo de forma fiel o layout criado por meio de código e por fim realizando testes em conjunto com a equipe de qualidade para entrega do produto final.
 
 <br>
 
