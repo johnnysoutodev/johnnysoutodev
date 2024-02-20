@@ -1,6 +1,6 @@
 # Johnny Souto
 
-Profissional com mais de 15 anos de experiência na área de tecnologia da informação. Atuando em conjunto com a área de negócios, definindo regras, interagindo com os mais diversos departamentos, incluindo designers, reproduzindo de forma fiel o layout criado por meio de código e por fim realizando testes em conjunto com a equipe de qualidade para entrega do produto final.
+Profissional experiente na área de tecnologia da informação, atuando em desenvolvimento de software em conjunto com diversas áreas desde negócios, definindo regras, interagindo com designers, para reproduzir de forma fiel o layout criado por meio de código e por fim realizando testes em conjunto com a equipe de qualidade para entrega do produto final.
 
 <br>
 
