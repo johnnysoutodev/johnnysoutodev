@@ -1,6 +1,6 @@
 # Johnny Souto
 
-Profissional de Tecnologia da Informação com experiência diversificada em desenvolvimento de software, arquitetura de soluções em nuvem e práticas de DevOps. Habilidades comprovadas em integração de sistemas, administração de plataformas Salesforce e implementação de infraestrutura na AWS e Azure. Comprometido com a entrega de soluções inovadoras e eficientes, alinhadas com as necessidades dos clientes e as melhores práticas do mercado.
+Profissional de Tecnologia da Informação com experiência diversificada em desenvolvimento de software, arquitetura de soluções em nuvem e práticas de DevOps. Habilidades comprovadas em integração de sistemas, administração de plataformas Salesforce e implementação de infraestrutura na AWS. Comprometido com a entrega de soluções inovadoras e eficientes, alinhadas com as necessidades dos clientes e as melhores práticas do mercado.
 
 <br>
 
