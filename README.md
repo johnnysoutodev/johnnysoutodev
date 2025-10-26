@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Johnny
 <div style="align: justify;">
-I'm an Information Technology professional with diverse experience in software development, cloud solutions architecture, and DevOps practices. I have proven skills in systems integration, Salesforce platform administration, and AWS infrastructure implementation. I'm committed to delivering innovative and efficient solutions aligned with customer needs and market best practices.
+I'm an Information technology professional with diverse experience in software development, cloud solutions architecture, and DevOps practices. I have proven skills in systems integration, Salesforce platform administration, and AWS infrastructure implementation. I'm committed to delivering innovative and efficient solutions aligned with customer needs and market best practices.
 <div>
 <br>
 <br>
