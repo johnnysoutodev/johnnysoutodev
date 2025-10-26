@@ -13,7 +13,7 @@ I'm an Information technology professional with diverse experience in software d
 
 ## Front-End
 
-<div style="display: inline_block"><br>  
+<div style="display: inline_block;"><br>  
   <img align="center" alt="HTML5" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   &nbsp;&nbsp;
   <img align="center" alt="CSS3" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -33,7 +33,7 @@ I'm an Information technology professional with diverse experience in software d
 
 ## Back-End
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block;"><br>
   <img align="center" alt="nodejs" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
   &nbsp;&nbsp;
   <img align="center" alt="Python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
@@ -47,7 +47,7 @@ I'm an Information technology professional with diverse experience in software d
 
 ## Databases
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block;"><br>
   <img align="center" alt="MySQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   &nbsp;&nbsp;
   <img align="center" alt="PostgreSQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
@@ -59,7 +59,7 @@ I'm an Information technology professional with diverse experience in software d
 
 ## Cloud
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block;"><br>
   <img align="center" alt="Amazon Web Services" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
   &nbsp;&nbsp;
   <img align="center" alt="Azure" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
@@ -73,7 +73,7 @@ I'm an Information technology professional with diverse experience in software d
 
 ## Tools
 
-<div style="display: inline_block"><br>  
+<div style="display: inline_block;"><br>  
   <img align="center" alt="VS Code" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
   &nbsp;&nbsp;
   <img align="center" alt="Visual Studio" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
@@ -84,7 +84,7 @@ I'm an Information technology professional with diverse experience in software d
   &nbsp;&nbsp;
   <img align="center" alt="Git" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   &nbsp;&nbsp;
-  <img align="center" alt="GitHub" style="background-color: #fff; height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+  <img align="center" alt="GitHub" style="background-color: #fff;" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
   &nbsp;&nbsp;
   <img align="center" alt="GitHub Actions" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
   &nbsp;&nbsp;
@@ -95,7 +95,7 @@ I'm an Information technology professional with diverse experience in software d
 
 ## Operational Systems
 
-<div style="display: inline_block"><br>  
+<div style="display: inline_block;"><br>  
   <img align="center" alt="Windows 11" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
   &nbsp;&nbsp;
   <img align="center" alt="Ubuntu" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
@@ -107,7 +107,7 @@ I'm an Information technology professional with diverse experience in software d
 
 ## CRM
 
-<div style="display: inline_block"><br>  
+<div style="display: inline_block;"><br>  
   <img align="center" alt="Salesforce" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" />
   &nbsp;&nbsp;
 </div>
@@ -115,7 +115,7 @@ I'm an Information technology professional with diverse experience in software d
   
 ## Contact me
 
-<div style="display: inline_block">
+<div style="display: inline_block;">
   <a href="https://www.linkedin.com/in/johnnysouto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   &nbsp;
   <a href = "mailto:johnnyjnsgmail.com?subject=Te%20encontrei%20no%20GitHub"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
