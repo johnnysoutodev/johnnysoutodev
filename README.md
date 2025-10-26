@@ -3,8 +3,8 @@
 I'm an Information technology professional with diverse experience in software development, cloud solutions architecture, and DevOps practices. I have proven skills in systems integration, Salesforce platform administration, and AWS infrastructure implementation. I'm committed to delivering innovative and efficient solutions aligned with customer needs and market best practices.
 <div>
 <br>
-<br>
 
+&nbsp;
 <div style="display: inline_block; align: center;">
   <img style="margin-bottom: 10px;" height="180em" src="https://github-readme-stats.vercel.app/api?username=johnnysoutodev&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=en"/>&nbsp;&nbsp;
   <img style="margin-bottom: 10px;" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnysoutodev&layout=compact&langs_count=4&theme=dark&locale=en"/>&nbsp;&nbsp;
