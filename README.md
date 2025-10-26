@@ -5,28 +5,13 @@ I'm an Information technology professional with diverse experience in software d
 <br>
 <br>
 
-<!--
-**johnnysoutodev/johnnysoutodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div align="center">
   <a href="https://github.com/johnnysoutodev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=johnnysoutodev&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=en"/>&nbsp;&nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnysoutodev&layout=compact&langs_count=4&theme=dark&locale=en"/>&nbsp;&nbsp;
 </div>
 
-## Front-End Technologies
+## Front-End
 
 <div style="display: inline_block"><br>  
   <img align="center" alt="HTML5" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -46,7 +31,7 @@ Here are some ideas to get you started:
 </div>
 <br>
 
-## Back-End Technologies
+## Back-End
 
 <div style="display: inline_block"><br>
   <img align="center" alt="nodejs" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
