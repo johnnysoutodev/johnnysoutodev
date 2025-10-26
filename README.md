@@ -112,6 +112,14 @@ I'm an Information technology professional with diverse experience in software d
   &nbsp;&nbsp;
 </div>
 <br>
+
+## Certification
+
+<div style="display: inline_block;"><br>  
+  <img align="center" alt="Salesforce" height="120" width="120" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" />
+  &nbsp;&nbsp;
+</div>
+<br>
   
 ## Contact me
 
