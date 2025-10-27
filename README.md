@@ -99,7 +99,7 @@ I'm an Information technology professional with diverse experience in software d
   &nbsp;&nbsp;
   <img style="margin-bottom: 10px; align: center;" alt="Ubuntu" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
   &nbsp;&nbsp;
-  <img style="margin-bottom: 10px; align: center;" alt="macOS" height="60" width="60" src="" />
+  <img style="margin-bottom: 10px; align: center;" alt="macOS" height="60" width="60" src="images/macos.png" />
   &nbsp;&nbsp;
 </div>
 <br>
