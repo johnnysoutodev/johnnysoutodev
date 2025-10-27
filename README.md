@@ -83,7 +83,7 @@ I'm an Information technology professional with diverse experience in software d
   &nbsp;&nbsp;
   <img style="margin-bottom: 10px; align: center;" alt="Git" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   &nbsp;&nbsp;
-  <img style="margin-bottom: 10px; align: center;" alt="GitHub" style="background-color: #fff;" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+  <img style="margin-bottom: 10px; align: center; background-color: #fff;" alt="GitHub" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
   &nbsp;&nbsp;
   <img style="margin-bottom: 10px; align: center;" alt="GitHub Actions" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
   &nbsp;&nbsp;
